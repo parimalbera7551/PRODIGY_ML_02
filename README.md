@@ -13,7 +13,11 @@ Spending Score (1-100): Spending score assigned to the customer based on their b
 To run this project, you need to have Python and the following libraries installed:
 
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
